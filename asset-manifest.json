@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SimpleReact/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/SimpleReact/static/js/main.634c0863.chunk.js",
+    "main.js.map": "/SimpleReact/static/js/main.634c0863.chunk.js.map",
+    "runtime-main.js": "/SimpleReact/static/js/runtime-main.6054447b.js",
+    "runtime-main.js.map": "/SimpleReact/static/js/runtime-main.6054447b.js.map",
+    "static/js/2.dce16a95.chunk.js": "/SimpleReact/static/js/2.dce16a95.chunk.js",
+    "static/js/2.dce16a95.chunk.js.map": "/SimpleReact/static/js/2.dce16a95.chunk.js.map",
+    "index.html": "/SimpleReact/index.html",
+    "precache-manifest.dc19fb4d13173752bf7d6998ed11888c.js": "/SimpleReact/precache-manifest.dc19fb4d13173752bf7d6998ed11888c.js",
+    "service-worker.js": "/SimpleReact/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/SimpleReact/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.dce16a95.chunk.js.LICENSE": "/SimpleReact/static/js/2.dce16a95.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6054447b.js",
+    "static/js/2.dce16a95.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.634c0863.chunk.js"
+  ]
+}
